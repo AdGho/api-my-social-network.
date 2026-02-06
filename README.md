@@ -22,22 +22,22 @@ La documentation complète avec exemples de requêtes et réponses est disponibl
 
 ### 👤 Utilisateurs & Authentification
 - Inscription et connexion avec hashage de mot de passe (BcryptJS).
-- [cite_start]Contrainte d'unicité sur l'adresse email[cite: 47].
+- Contrainte d'unicité sur l'adresse email.
 
 ### 👥 Groupes & Événements
-- [cite_start]Création de groupes (Public, Privé, Secret) avec gestion des droits de publication [cite: 36-43].
-- [cite_start]Création d'événements en 3 étapes avec paramètres essentiels (Nom, Dates, Lieu, etc.) [cite: 20-30].
-- [cite_start]Invitation automatique de tous les membres d'un groupe lors de la création d'un événement associé [cite: 32-33].
+- Création de groupes (Public, Privé, Secret) avec gestion des droits de publication.
+- Création d'événements en 3 étapes avec paramètres essentiels (Nom, Dates, Lieu, etc.).
+- Invitation automatique de tous les membres d'un groupe lors de la création d'un événement associé.
 
 ### 🎫 Billetterie & Services
-- [cite_start]**Billetterie** : Création de types de billets limités et restriction à 1 billet par personne extérieure [cite: 68-82].
-- [cite_start]**Sondages** : Création de questions à choix unique par l'organisateur [cite: 63-67].
-- [cite_start]**Albums Photo** : Gestion des photos et commentaires par les participants [cite: 59-62].
-- [cite_start]**Discussions** : Fil de discussion exclusif (lié soit à un groupe, soit à un événement) [cite: 54-55].
+- **Billetterie** : Création de types de billets limités et restriction à 1 billet par personne extérieure [cite: 68-82].
+- **Sondages** : Création de questions à choix unique par l'organisateur.
+- **Albums Photo** : Gestion des photos et commentaires par les participants.
+- **Discussions** : Fil de discussion exclusif (lié soit à un groupe, soit à un événement).
 
 ### 🌟 Bonus (Shopping & Covoiturage)
-- [cite_start]**Shopping List** : Gestion des apports avec contrainte d'unicité de l'article par événement [cite: 85-90].
-- [cite_start]**Covoiturage** : Proposition de trajets avec gestion du prix, des places et de l'écart de temps [cite: 91-98].
+- **Shopping List** : Gestion des apports avec contrainte d'unicité de l'article par événement.
+- **Covoiturage** : Proposition de trajets avec gestion du prix, des places et de l'écart de temps.
 
 ---
 
